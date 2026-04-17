@@ -13,6 +13,7 @@ name: Pham Thuan
 role: AI & Backend Developer (Student)
 school: UET - VNU
 focus: Computer Vision, LLM, Data Visualization
+```
 
 ------------------------------------------------------------------------
 
@@ -67,10 +68,13 @@ focus: Computer Vision, LLM, Data Visualization
 ------------------------------------------------------------------------
 
 ## 📈 Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/PhThuan-tech/PhThuan-tech/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PhThuan-tech&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhThuan-tech&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ------------------------------------------------------------------------
