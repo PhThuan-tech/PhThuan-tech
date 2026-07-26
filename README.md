@@ -1,99 +1,121 @@
-# 👋 Hi, I'm Phạm Thuận
+# Hi, I'm Pham Thuan
 
-**`AI & Backend Developer (Student)`** *University of Engineering and Technology (UET) - Vietnam National University, Hanoi (VNU)*
+**AI & Deep Learning Developer (Student)**<br/>
+University of Engineering and Technology (UET) - Vietnam National University, Hanoi (VNU)
 
 <p align="center">
   <img src="https://github.com/PhThuan-tech/PhThuan-tech/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
   <br/>
-  <em>📈 Contribution activity snake</em>
+  <em>Contribution activity snake</em>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I'm a passionate developer with a strong focus on **Artificial Intelligence** and **Backend Engineering**. I love building systems that solve real-world problems — from computer vision pipelines to data-driven applications.
+I am a student developer exploring **Deep Learning**, **Continual Learning**, and practical AI systems.
 
-- 🔭 **Current project:** License Plate Recognition System (YOLOv8 + OCR + FastAPI + MySQL)
-- 🌱 **Learning:** Deep Learning (PyTorch/TensorFlow), System Design, Advanced Computer Vision
-- 🤝 **Open to collaboration:** AI / Backend / Open Source projects
-- 📫 **Contact:** [24022461@vnu.edu.vn](mailto:24022461@vnu.edu.vn)
-- ⚡ **Fun fact:** I believe code is the closest thing we have to magic — turning data into decisions.
+My current direction is understanding how models learn, adapt, forget, and improve over time. I enjoy turning research ideas into reproducible experiments, clean training pipelines, and readable technical notes.
+
+- **Current focus:** Deep Learning and Continual Learning
+- **Main interests:** neural networks, representation learning, catastrophic forgetting, model evaluation
+- **Learning:** PyTorch, computer vision, experiment tracking, research implementation
+- **Open to:** AI research projects, open-source collaboration, and applied ML engineering
+- **Contact:** [24022461@vnu.edu.vn](mailto:24022461@vnu.edu.vn)
 
 ---
 
-## 🛠️ Tech Stack
+## What I'm Exploring
 
-### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
+| Topic | What I am focusing on |
+|---|---|
+| Deep Learning | Training loops, optimization, regularization, model evaluation |
+| Computer Vision | CNNs, vision transformers, image classification, feature extraction |
+| Continual Learning | Catastrophic forgetting, replay methods, regularization-based methods |
+| Experiment Design | Reproducible runs, metrics, ablation studies, clear result tracking |
+| Applied AI | Turning model experiments into usable tools and services |
 
-### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=mlflow&logoColor=blue)
+---
 
-### Backend & Databases
+## Continual Learning Notes
+
+I am especially interested in how models can keep learning from new data without losing useful knowledge from previous tasks.
+
+Areas I want to explore deeper:
+
+- Task-incremental, class-incremental, and domain-incremental learning.
+- Replay and memory-based methods.
+- Regularization approaches such as EWC-style constraints.
+- Evaluation metrics for forgetting, stability, and plasticity.
+- Practical experiment pipelines for comparing methods fairly.
+
+---
+
+## Tech Stack
+
+### Core
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### Also Work With
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-
-### Environments & Tools
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Featured Work
 
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **License Plate Recognition** | End-to-end system for detecting and reading license plates in real-time. | YOLOv8, OCR, FastAPI, MySQL |
-| *(Add your other projects here)* | *Brief description* | *Main technologies* |
+| Project | What it shows | Tech |
+|---|---|---|
+| **Deep Learning Experiments** | Model training, evaluation, optimization, and result analysis. | Python, PyTorch, NumPy |
+| **Continual Learning Studies** | Experiments around forgetting, adaptation, replay, and stability-plasticity trade-offs. | PyTorch, scikit-learn, Matplotlib |
+| **Applied AI Prototypes** | Small systems that connect trained models with APIs or user-facing tools. | FastAPI, OpenCV, SQL |
 
-> 🔗 More projects available on my [GitHub repositories](https://github.com/PhThuan-tech?tab=repositories).
+More work is available in my [GitHub repositories](https://github.com/PhThuan-tech?tab=repositories).
 
 ---
 
-## 📊 GitHub Analytics
+## Learning Roadmap
+
+- Build strong foundations in neural networks, optimization, and representation learning.
+- Reproduce classic deep learning experiments with clean training pipelines.
+- Study continual learning methods and compare them on simple benchmarks.
+- Improve experiment tracking with metrics, plots, configs, and reproducible seeds.
+- Write concise notes that explain what worked, what failed, and what changed.
+
+---
+
+## Research & Writing
+
+Topics I want to write about:
+
+- Why neural networks forget previous tasks.
+- How replay helps continual learning.
+- How to design fair experiments for model comparison.
+- Lessons from implementing papers in PyTorch.
+- Practical notes on training, debugging, and evaluating models.
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PhThuan-tech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhThuan-tech&theme=tokyonight&hide_border=false" height="170" alt="Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PhThuan-tech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhThuan-tech&layout=compact&theme=tokyonight" height="170" alt="Top languages" />
 </p>
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 **Deploy** the License Plate Recognition system as a cloud service
-- 📚 **Master** advanced deep learning architectures (Transformers, Diffusion Models)
-- 🌍 **Contribute** to at least 3 open-source AI projects this year
-- 📝 **Write** technical articles about my learning journey
-
----
-
-## 🤝 Connect with Me
+## Connect
 
 <p align="center">
   <a href="https://github.com/PhThuan-tech" target="_blank">
@@ -111,13 +133,9 @@ I'm a passionate developer with a strong focus on **Artificial Intelligence** an
 
 ---
 
-## 📜 Random Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <em>I want to build AI systems that do not only learn once, but keep adapting over time.</em>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PhThuan-tech&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views counter" />
