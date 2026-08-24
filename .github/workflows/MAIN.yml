@@ -22,7 +22,8 @@ jobs:
           github_user_name: PhThuan-tech
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd3f6,#8aa9e6,#5c7fc9,#2b4594,#12215c
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4

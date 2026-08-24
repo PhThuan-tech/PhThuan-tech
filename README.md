@@ -1,140 +1,124 @@
-# Hi, I'm Pham Thuan
-
-**AI & Deep Learning Developer (Student)**<br/>
-University of Engineering and Technology (UET) - Vietnam National University, Hanoi (VNU)
+# Hi, I'm Pham Thuan 👋
 
 <p align="center">
-  <img src="https://github.com/PhThuan-tech/PhThuan-tech/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  <br/>
-  <em>Contribution activity snake</em>
+  <b>Aspiring AI Engineer | Applied Deep Learning & LLM Systems</b><br/>
+  <i>University of Engineering and Technology (UET) - Vietnam National University, Hanoi</i>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhThuan-tech/PhThuan-tech/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhThuan-tech/PhThuan-tech/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PhThuan-tech/PhThuan-tech/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I am a student developer exploring **Deep Learning**, **Continual Learning**, and practical AI systems.
+I am an **AI Engineer** in training, passionate about bridging the gap between cutting-edge Deep Learning research and robust, production-ready AI applications.
 
-My current direction is understanding how models learn, adapt, forget, and improve over time. I enjoy turning research ideas into reproducible experiments, clean training pipelines, and readable technical notes.
+My work centers on developing scalable AI pipelines, exploring **Large Language Models (LLM / RAG)**, **Computer Vision**, and **Continual Learning** architectures to build systems that learn, adapt, and serve reliably in production.
 
-- **Current focus:** Deep Learning and Continual Learning
-- **Main interests:** neural networks, representation learning, catastrophic forgetting, model evaluation
-- **Learning:** PyTorch, computer vision, experiment tracking, research implementation
-- **Open to:** AI research projects, open-source collaboration, and applied ML engineering
-- **Contact:** [24022461@vnu.edu.vn](mailto:24022461@vnu.edu.vn)
-
----
-
-## What I'm Exploring
-
-| Topic | What I am focusing on |
-|---|---|
-| Deep Learning | Training loops, optimization, regularization, model evaluation |
-| Computer Vision | CNNs, vision transformers, image classification, feature extraction |
-| Continual Learning | Catastrophic forgetting, replay methods, regularization-based methods |
-| Experiment Design | Reproducible runs, metrics, ablation studies, clear result tracking |
-| Applied AI | Turning model experiments into usable tools and services |
+- 🔭 **Current Focus:** End-to-end AI pipelines, RAG Architectures, Model Optimization & Quantization (ONNX).
+- 💡 **Research Interests:** Continual Learning (Catastrophic Forgetting mitigation), Representation Learning, Multimodal AI.
+- 🛠️ **Engineering Mindset:** Clean architecture, reproducible experiment tracking, and containerized deployment (Docker + FastAPI).
+- 💼 **Looking for:** AI Engineer Intern / Junior AI Engineer Opportunities.
+- 🤝 **Open to:** Open-Source AI collaboration, Hackathons, and applied ML engineering.
 
 ---
 
-## Continual Learning Notes
+## 🛠️ Tech Stack
 
-I am especially interested in how models can keep learning from new data without losing useful knowledge from previous tasks.
-
-Areas I want to explore deeper:
-
-- Task-incremental, class-incremental, and domain-incremental learning.
-- Replay and memory-based methods.
-- Regularization approaches such as EWC-style constraints.
-- Evaluation metrics for forgetting, stability, and plasticity.
-- Practical experiment pipelines for comparing methods fairly.
-
----
-
-## Tech Stack
-
-### Core
+### 🧠 Deep Learning & AI Core
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### Also Work With
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🤖 LLM, GenAI & Applied AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+
+### 💻 Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## Featured Work
+## 🌟 Featured Projects
 
-| Project | What it shows | Tech |
-|---|---|---|
-| **Deep Learning Experiments** | Model training, evaluation, optimization, and result analysis. | Python, PyTorch, NumPy |
-| **Continual Learning Studies** | Experiments around forgetting, adaptation, replay, and stability-plasticity trade-offs. | PyTorch, scikit-learn, Matplotlib |
-| **Applied AI Prototypes** | Small systems that connect trained models with APIs or user-facing tools. | FastAPI, OpenCV, SQL |
+### 🔹 [RAG Knowledge Retrieval System](https://github.com/PhThuan-tech?tab=repositories)
+> *An end-to-end question-answering assistant over custom knowledge bases using vector embeddings and local LLMs.*
+- **Key Features:** Semantic search with hybrid reranking, low-latency streaming responses, containerized setup.
+- **Tech Stack:** `Python` `LangChain` `ChromaDB` `FastAPI` `Docker`
+- 🔗 **Links:** [Source Code](https://github.com/PhThuan-tech?tab=repositories)
 
-More work is available in my [GitHub repositories](https://github.com/PhThuan-tech?tab=repositories).
+### 🔹 [Continual Learning & Catastrophic Forgetting Benchmark](https://github.com/PhThuan-tech?tab=repositories)
+> *A modular experimental framework evaluating Elastic Weight Consolidation (EWC) and memory replay strategies across sequential vision tasks.*
+- **Key Features:** Automated metrics for stability vs. plasticity trade-offs, reproducible training runs.
+- **Tech Stack:** `PyTorch` `NumPy` `Matplotlib` `scikit-learn`
+- 🔗 **Links:** [Source Code](https://github.com/PhThuan-tech?tab=repositories)
 
----
-
-## Learning Roadmap
-
-- Build strong foundations in neural networks, optimization, and representation learning.
-- Reproduce classic deep learning experiments with clean training pipelines.
-- Study continual learning methods and compare them on simple benchmarks.
-- Improve experiment tracking with metrics, plots, configs, and reproducible seeds.
-- Write concise notes that explain what worked, what failed, and what changed.
-
----
-
-## Research & Writing
-
-Topics I want to write about:
-
-- Why neural networks forget previous tasks.
-- How replay helps continual learning.
-- How to design fair experiments for model comparison.
-- Lessons from implementing papers in PyTorch.
-- Practical notes on training, debugging, and evaluating models.
+### 🔹 [Real-Time Computer Vision Inference API](https://github.com/PhThuan-tech?tab=repositories)
+> *High-performance object detection & classification service optimized with ONNX Runtime.*
+- **Key Features:** Model quantization for sub-50ms inference on CPU/GPU, RESTful endpoint with batch processing.
+- **Tech Stack:** `PyTorch` `OpenCV` `ONNX Runtime` `FastAPI`
+- 🔗 **Links:** [Source Code](https://github.com/PhThuan-tech?tab=repositories)
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PhThuan-tech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhThuan-tech&layout=compact&theme=tokyonight" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PhThuan-tech&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhThuan-tech&theme=tokyonight" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhThuan-tech&layout=compact&theme=tokyonight" height="150" alt="Top languages" />
 </p>
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/PhThuan-tech" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/PhThuan-tech" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="42" alt="Hugging Face"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/ph.thuann.151006" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="42" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:24022461@vnu.edu.vn" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" alt="Email"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>I want to build AI systems that do not only learn once, but keep adapting over time.</em>
+  <em>"Building intelligent systems that adapt continuously and scale effectively."</em>
 </p>
 
 <p align="center">
